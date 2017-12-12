@@ -12,7 +12,7 @@ namespace AlphaA.cs
 
         public void makeSound1()
         {
-        	Console.WriteLine("{0} makes sound!!",name1);
+        	Console.WriteLine("{0} makes many  sound!!",name1);
         }
 
 		public void walk1()
